@@ -1,8 +1,8 @@
-##Kunka
+##MIN
 
-> 这只是另外一个 Jekyll 主题文件。
+> 
 
-![kunka blog theme](images/blog.jpg)
+![MIN blog ](images/blog.png)
 
 ###使用方法
 

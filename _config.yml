@@ -71,28 +71,20 @@ author:
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
-  - class: icon-rss
-    url: /atom.xmls
-  - class: icon-weibo
-    url: http://weibo.com/pizn
-  - class: icon-renren
-    url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
-  - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: https://github.com/min0012
   - class: icon-google-plus
     url: http://google.com
 
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
+    - text: 百度
+      url: http://www.baidu.com
+    - text: 谷歌
+      url: http://www.google.cn
+    - text: MIN
+      url: http://min0012.github.io/MIN_Blog
     message: Friends
   - item:
     - text: Font Awesome

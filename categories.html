@@ -21,8 +21,8 @@ title: Categories
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if group == null or group == node.group %}
-        	<li> {{ BASE_PATH }}{{node.url}}</li>
-            <li style="background:#F2EEEC; padding:5px; margin:3px 0"><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+        	<li> {{ BASE_PATH }}{{site.url}}{{node.url}}</li>
+            <li style="background:#F2EEEC; padding:5px; margin:3px 0"><a href="{{ BASE_PATH }}{{site.url}}{{node.url}}">{{node.title}}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}

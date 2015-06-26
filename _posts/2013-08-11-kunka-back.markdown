@@ -2,7 +2,7 @@
 layout: post
 title:  kunka 主题归来
 date:   2013-08-11 12:55:11
-permalink
+permalink:
 category: "主题"
 ---
 
